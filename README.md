@@ -1,4 +1,4 @@
-# # Create a Random Password Generator in Python
+# Create a Random Password Generator in Python
 
 Credits: This code was extracted from [blog](https://geekflare.com/password-generator-python-code/) by [Hafeezul Kareem Shaik](https://geekflare.com/author/hafeezulkareem/) in [Development](https://geekflare.com/category/development/)
 
